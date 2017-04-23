@@ -21,6 +21,7 @@
     <bean name="/product_input.action" class="com.jikexueyuan.controller.InputProductController"/>
     <bean name="/product_save.action" class="com.jikexueyuan.controller.SaveProductController"/>
 
+    <!--<bean name="/book_update" class="com.jikexueyuan.controller.BookController"></bean>-->
 
     <bean id="viewResolver" class="org.springframework.web.servlet.view.InternalResourceViewResolver">
         <property name="prefix" value="/WEB-INF/jsp/"/>
