@@ -72,8 +72,5 @@ public class EncodingFilter implements Filter {
             encoding = DEFAULT_CHARSET;
     }
 }
-
-
-
 //what is pull request, must new branch ? how to ?
 
